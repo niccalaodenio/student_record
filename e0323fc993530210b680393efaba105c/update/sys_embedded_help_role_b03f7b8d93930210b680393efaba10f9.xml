@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1435562_stu_stud.student_record_user" name="x_1435562_stu_stud.student_record_user">a43f7b8d93930210b680393efaba10f5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 15:00:38</sys_created_on>
+        <sys_id>b03f7b8d93930210b680393efaba10f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a43f7b8d93930210b680393efaba10f5</sys_name>
+        <sys_package display_value="STU - Student Records" source="x_1435562_stu_stud">e0323fc993530210b680393efaba105c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="STU - Student Records">e0323fc993530210b680393efaba105c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b03f7b8d93930210b680393efaba10f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 15:00:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

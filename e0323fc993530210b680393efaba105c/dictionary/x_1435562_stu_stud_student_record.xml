@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0c0b3b4993930210b680393efaba1074" label="Student Record" max_length="40" name="x_1435562_stu_stud_student_record" type="collection">
+        <element label="Contact Number" max_length="40" name="contact_number" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Grade Level" max_length="40" name="grade_level" type="string"/>
+        <element label="Middle Name" max_length="40" name="middle_name" type="string"/>
+        <element choice="1" label="Enrolled" max_length="40" name="enrolled" type="choice">
+            <choice/>
+        </element>
+        <element label="Birthday" max_length="40" name="birthday" type="glide_date"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Date of Enrolment" max_length="40" name="date_of_enrolment" type="glide_date"/>
+    </element>
+</database>

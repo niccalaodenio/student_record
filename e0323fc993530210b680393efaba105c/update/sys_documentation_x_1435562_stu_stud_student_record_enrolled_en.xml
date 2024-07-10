@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="enrolled" label="Enrolled" language="en" table="x_1435562_stu_stud_student_record">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>enrolled</element>
+            <help/>
+            <hint/>
+            <label>Enrolled</label>
+            <language>en</language>
+            <name>x_1435562_stu_stud_student_record</name>
+            <plural>Enrolled</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-08 15:00:41</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Enrolled</sys_name>
+            <sys_package display_value="STU - Student Records" source="x_1435562_stu_stud">e0323fc993530210b680393efaba105c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="STU - Student Records">e0323fc993530210b680393efaba105c</sys_scope>
+            <sys_update_name>sys_documentation_x_1435562_stu_stud_student_record_enrolled_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-08 15:00:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
