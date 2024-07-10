@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Add New Student">c4185439935f8210b680393efaba1058</catalog_item>
+        <catalog_variable>IO:1c185079935f8210b680393efaba10bf</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 06:28:17</sys_created_on>
+        <sys_id>141d5831939f8210b680393efaba1060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>number</sys_name>
+        <sys_package display_value="STU - Student Records" source="x_1435562_stu_stud">e0323fc993530210b680393efaba105c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="STU - Student Records">e0323fc993530210b680393efaba105c</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_141d5831939f8210b680393efaba1060</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 06:28:17</sys_updated_on>
+        <table/>
+        <ui_policy display_value="this hide the number in catalog itm">75dc1431939f8210b680393efaba103f</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>number</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=141d5831939f8210b680393efaba1060"/>
+</record_update>

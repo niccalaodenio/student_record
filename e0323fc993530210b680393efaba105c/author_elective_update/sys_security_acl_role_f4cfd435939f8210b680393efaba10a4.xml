@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 06:39:53</sys_created_on>
+        <sys_id>f4cfd435939f8210b680393efaba10a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1435562_stu_stud_student_record_2.x_1435562_stu_stud.student_record_2_user</sys_name>
+        <sys_package display_value="STU - Student Records" source="x_1435562_stu_stud">e0323fc993530210b680393efaba105c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="STU - Student Records">e0323fc993530210b680393efaba105c</sys_scope>
+        <sys_security_acl display_value="x_1435562_stu_stud_student_record_2">74cfd435939f8210b680393efaba10a1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f4cfd435939f8210b680393efaba10a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 06:39:53</sys_updated_on>
+        <sys_user_role display_value="x_1435562_stu_stud.student_record_2_user" name="x_1435562_stu_stud.student_record_2_user">60cf94f1939f8210b680393efaba1021</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="STU - Student Records">e0323fc993530210b680393efaba105c</application>
+        <file_path/>
+        <instance_id>a6bfc6c41b3575909377eb9b2d4bcba2</instance_id>
+        <instance_name>dev181593</instance_name>
+        <name>sys_security_acl_role_f4cfd435939f8210b680393efaba10a4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-10 06:39:53</sys_created_on><sys_id>f4cfd435939f8210b680393efaba10a4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1435562_stu_stud_student_record_2.x_1435562_stu_stud.student_record_2_user</sys_name><sys_package display_value="STU - Student Records" source="x_1435562_stu_stud">e0323fc993530210b680393efaba105c</sys_package><sys_policy/><sys_scope display_value="STU - Student Records">e0323fc993530210b680393efaba105c</sys_scope><sys_security_acl display_value="x_1435562_stu_stud_student_record_2">74cfd435939f8210b680393efaba10a1</sys_security_acl><sys_update_name>sys_security_acl_role_f4cfd435939f8210b680393efaba10a4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-10 06:39:53</sys_updated_on><sys_user_role display_value="x_1435562_stu_stud.student_record_2_user" name="x_1435562_stu_stud.student_record_2_user">60cf94f1939f8210b680393efaba1021</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1105123231</payload_hash>
+        <record_name>x_1435562_stu_stud_student_record_2.x_1435562_stu_stud.student_record_2_user</record_name>
+        <reverted_from/>
+        <source>eca31471935f8210b680393efaba108d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 06:39:53</sys_created_on>
+        <sys_id>f0cfd435939f8210b680393efaba10a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1909b5eb4060000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 06:39:53</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>f4cfd435799f82108ea76b5c2bec8aa6</update_guid>
+        <update_guid_history>f4cfd435799f82108ea76b5c2bec8aa6:-1105123231</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1435562_stu_stud_student_record_2.x_1435562_stu_stud.student_record_2_user">6a82e039939f8210b680393efaba1019</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 06:52:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1d6b769b58cb4b77b42ce86dc501e131</sys_id>
+        <sys_metadata>f4cfd435939f8210b680393efaba10a4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1435562_stu_stud_student_record_2.x_1435562_stu_stud.student_record_2_user</sys_name>
+        <sys_package display_value="STU - Student Records" source="x_1435562_stu_stud">e0323fc993530210b680393efaba105c</sys_package>
+        <sys_parent display_value="">74cfd435939f8210b680393efaba10a1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="STU - Student Records">e0323fc993530210b680393efaba105c</sys_scope>
+        <sys_scope_delete display_value="">7f8bb2e924ce462283f411ea8cd569c4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f4cfd435939f8210b680393efaba10a4</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f4cfd435939f8210b680393efaba10a4">f0cfd435939f8210b680393efaba10a7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 06:52:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Student Record 2">34cfd435939f8210b680393efaba1045</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Student Record 2s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1435562_stu_stud_student_record_2</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1435562_stu_stud.student_record_2_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 06:39:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>34cfd435939f8210b680393efaba1049</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Student Record 2s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="STU - Student Records" source="x_1435562_stu_stud">e0323fc993530210b680393efaba105c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="STU - Student Records">e0323fc993530210b680393efaba105c</sys_scope>
+        <sys_update_name>sys_app_module_34cfd435939f8210b680393efaba1049</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 06:39:52</sys_updated_on>
+        <timeline_page/>
+        <title>Student Record 2s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="STU - Student Records">e0323fc993530210b680393efaba105c</application>
+        <file_path/>
+        <instance_id>a6bfc6c41b3575909377eb9b2d4bcba2</instance_id>
+        <instance_name>dev181593</instance_name>
+        <name>sys_app_module_34cfd435939f8210b680393efaba1049</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Student Record 2">34cfd435939f8210b680393efaba1045</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Student Record 2s</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1435562_stu_stud_student_record_2</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1435562_stu_stud.student_record_2_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-10 06:39:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>34cfd435939f8210b680393efaba1049</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Student Record 2s</sys_name><sys_overrides/><sys_package display_value="STU - Student Records" source="x_1435562_stu_stud">e0323fc993530210b680393efaba105c</sys_package><sys_policy/><sys_scope display_value="STU - Student Records">e0323fc993530210b680393efaba105c</sys_scope><sys_update_name>sys_app_module_34cfd435939f8210b680393efaba1049</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-10 06:39:52</sys_updated_on><timeline_page/><title>Student Record 2s</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-676455632</payload_hash>
+        <record_name>Student Record 2s</record_name>
+        <reverted_from/>
+        <source>eca31471935f8210b680393efaba108d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 06:39:52</sys_created_on>
+        <sys_id>3ccfd435939f8210b680393efaba104c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1909b5eb1570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 06:39:52</sys_updated_on>
+        <type>Module</type>
+        <update_guid>fccfd4352e9f82107096bf02e83e0a4b</update_guid>
+        <update_guid_history>fccfd4352e9f82107096bf02e83e0a4b:-676455632</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Student Record 2s">7282e039939f8210b680393efaba1053</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 06:52:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0a5fe22654224f74a88ff7ac9860f064</sys_id>
+        <sys_metadata>34cfd435939f8210b680393efaba1049</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Student Record 2s</sys_name>
+        <sys_package display_value="STU - Student Records" source="x_1435562_stu_stud">e0323fc993530210b680393efaba105c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="STU - Student Records">e0323fc993530210b680393efaba105c</sys_scope>
+        <sys_scope_delete display_value="">7f8bb2e924ce462283f411ea8cd569c4</sys_scope_delete>
+        <sys_update_name>sys_app_module_34cfd435939f8210b680393efaba1049</sys_update_name>
+        <sys_update_version display_value="sys_app_module_34cfd435939f8210b680393efaba1049">3ccfd435939f8210b680393efaba104c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 06:52:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

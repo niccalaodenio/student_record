@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="0c0b3b4993930210b680393efaba1074" label="Student Record" max_length="40" name="x_1435562_stu_stud_student_record" type="collection">
         <element label="Contact Number" max_length="40" name="contact_number" type="string"/>
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element label="First Name" max_length="40" name="first_name" type="string"/>
         <element label="Address" max_length="40" name="address" type="string"/>
-        <element label="Grade Level" max_length="40" name="grade_level" type="string"/>
+        <element choice="3" label="Grade Level" max_length="40" name="grade_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="8" sequence="1" value="8"/>
+                <element inactive_on_update="false" label="11" sequence="4" value="11"/>
+                <element inactive_on_update="false" label="9" sequence="2" value="9"/>
+                <element inactive_on_update="false" label="12" sequence="5" value="12"/>
+                <element inactive_on_update="false" label="10" sequence="3" value="10"/>
+                <element inactive_on_update="false" label="7" sequence="0" value="7"/>
+            </choice>
+        </element>
         <element label="Middle Name" max_length="40" name="middle_name" type="string"/>
-        <element choice="1" label="Enrolled" max_length="40" name="enrolled" type="choice">
-            <choice/>
+        <element choice="3" label="Enrolled" max_length="40" name="enrolled" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+            </choice>
         </element>
         <element label="Birthday" max_length="40" name="birthday" type="glide_date"/>
         <element label="Last Name" max_length="40" name="last_name" type="string"/>
